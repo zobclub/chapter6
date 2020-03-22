@@ -6,11 +6,11 @@ Chapter 6 UFO Shooting program for micro: bit book
 ---
 * microbit-ufo.hex
 ```
-UFOシューティング　プログラム by MakeCode
+UFO繧ｷ繝･繝ｼ繝�繧｣繝ｳ繧ｰ縲繝励Ο繧ｰ繝ｩ繝 by MakeCode
 ```
 * ufo.py
 ```
-UFOシューティング　プログラム by MicroPythone
+UFO繧ｷ繝･繝ｼ繝�繧｣繝ｳ繧ｰ縲繝励Ο繧ｰ繝ｩ繝 by MicroPython
 ```
 ## License
 MIT
